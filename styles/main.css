@@ -3,15 +3,17 @@ body {
     text-align: center;
     text-decoration: black;
     font-family: 'Pacifico', cursive;
-
 }
 #home-page-heading {
     color: gray;
     font-family: 'Pacifico', cursive;
-    font-size: 700px;
+    font-size: 70px;
 }
 h1 {
     color: black;
     text-align: center;
-    font-family: 'Anton', sans-serif;
+    font-family: 'Pacifico', cursive;
+}
+p {
+    font-family: anton, sans-serif;
 }
