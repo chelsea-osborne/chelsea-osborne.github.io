@@ -17,5 +17,18 @@ p {
 
 .sprint2-cultural-para {
     font-family: Arial, Helvetica, sans-serif;
-    margin: 40px 40px 40px 40px;
+    margin: 40px 100px 40px 100px;
+}
+.sprint2-cultural-h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 40px 100px 40px 100px;  
+}
+.sprint2-cultural-h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 40px 100px 40px 100px;
+    color: grey;
+}
+.sprint2-cultural-h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 40px 100px 40px 100px;
 }
