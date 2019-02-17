@@ -5,7 +5,11 @@ body {
     font-family: 'Pacifico', cursive;
 
 }
-
+#home-page-heading {
+    color: gray;
+    font-family: 'Pacifico', cursive;
+    font-size: 700px;
+}
 h1 {
     color: black;
     text-align: center;
