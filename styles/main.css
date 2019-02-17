@@ -4,4 +4,6 @@ body {
 
 h1 {
     color: green;
+    text-align: center;
+    font-family: 'Open Sans Condensed', sans-serif;
 }
