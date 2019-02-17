@@ -17,18 +17,32 @@ p {
 
 .sprint2-cultural-para {
     font-family: Arial, Helvetica, sans-serif;
-    margin: 40px 100px 40px 100px;
+    margin: 20px 200px 20px 200px;
 }
 .sprint2-cultural-h3 {
     font-family: Arial, Helvetica, sans-serif;
-    margin: 40px 100px 40px 100px;  
+    margin: 20px 200px 20px 200px;  
 }
 .sprint2-cultural-h2 {
     font-family: Arial, Helvetica, sans-serif;
-    margin: 40px 100px 40px 100px;
+    margin: 40px 200px 40px 200px;
     color: grey;
 }
 .sprint2-cultural-h1 {
     font-family: Arial, Helvetica, sans-serif;
-    margin: 40px 100px 40px 100px;
+    margin: 40px 200px 40px 200px;
+    border-bottom-width: 1px;
+    border-color: black;
+}
+nav {
+    border-bottom: 1px solid black;
+}
+
+.crumbs ol {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.crumb {
+    display: inline-block;
 }
