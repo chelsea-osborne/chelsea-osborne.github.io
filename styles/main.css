@@ -17,11 +17,11 @@ p {
 
 .sprint2-cultural-para {
     font-family: Arial, Helvetica, sans-serif;
-    margin: 20px 200px 20px 200px;
+    margin: 20px 400px 20px 200px;
 }
 .sprint2-cultural-h3 {
     font-family: Arial, Helvetica, sans-serif;
-    margin: 20px 200px 20px 200px;  
+    margin: 0px 400px 0px 200px;  
 }
 .sprint2-cultural-h2 {
     font-family: Arial, Helvetica, sans-serif;
@@ -38,11 +38,11 @@ nav {
     border-bottom: 1px solid black;
 }
 
-.crumbs ol {
+.home-nav ol {
     list-style-type: none;
     padding-left: 0;
 }
 
-.crumb {
+.home-nav {
     display: inline-block;
 }
