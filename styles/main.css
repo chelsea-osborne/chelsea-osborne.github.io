@@ -48,6 +48,13 @@ header {
     height: 160px;
 }
 
+nav, footer {
+    clear: both;
+    color: #ffffff;
+    background-color: #aeaca8;
+    height: 30px;
+}
+
 nav ul{
     margin: 0px;
     padding: 5px 0px 5px 30px;
