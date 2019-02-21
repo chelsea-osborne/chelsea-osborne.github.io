@@ -19,40 +19,40 @@ p {
 
 .sprint2-cultural-para {
     font-family: Arial, Helvetica, sans-serif;
-    margin: 20px 400px 20px 200px;
+    margin: 20px auto 20px 200px;
 }
 .sprint2-cultural-h3 {
     font-family: Arial, Helvetica, sans-serif;
-    margin: 0px 400px 0px 200px;  
+    margin: 0px auto 0px 200px;  
 }
 .sprint2-cultural-h2 {
     font-family: Arial, Helvetica, sans-serif;
-    margin: 40px 200px 40px 200px;
+    margin: 40px auto 40px 200px;
     color: grey;
 }
 .sprint2-cultural-h1 {
     font-family: Arial, Helvetica, sans-serif;
-    margin: 40px 200px 40px 200px;
+    margin: 40px auto 40px 200px;
     border-bottom-width: 1px;
     border-color: black;
 }
 
 .sprint3-cultural-para {
     font-family: Arial, Helvetica, sans-serif;
-    margin: 20px 400px 20px 200px;
+    margin: 20px auto 20px 200px;
 }
 .sprint3-cultural-h3 {
     font-family: Arial, Helvetica, sans-serif;
-    margin: 0px 400px 0px 200px;  
+    margin: 0px auto 0px 200px;  
 }
 .sprint3-cultural-h2 {
     font-family: Arial, Helvetica, sans-serif;
-    margin: 40px 200px 40px 200px;
+    margin: 40px auto 40px 200px;
     color: grey;
 }
 .sprint3-cultural-h1 {
     font-family: Arial, Helvetica, sans-serif;
-    margin: 40px 200px 40px 200px;
+    margin: 40px auto 40px 200px;
     border-bottom-width: 1px;
     border-color: black;
 }
