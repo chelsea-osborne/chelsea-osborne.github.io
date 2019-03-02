@@ -1,4 +1,7 @@
-
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: pink;
+}
 .navbar {
     overflow: hidden;
     background-color: #333;
