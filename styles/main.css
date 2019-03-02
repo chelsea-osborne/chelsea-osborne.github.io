@@ -55,9 +55,10 @@ li.dropdown {
 .dropdown-content a:hover {
     background-color: #f1f1f1;
 }
-.dropdown:hover .dropdown-content {
+.dropbtn:hover .dropdown-content {
     display: block;
 }
+
 li a.active {
     background-color: pink;
     color: white;
