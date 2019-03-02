@@ -63,7 +63,7 @@ li a.active {
     background-color: pink;
     color: white;
 }
-.dropbtn {
+.dropdown .dropbtn {
     font-size: 16px;
     border: none;
     outline: none;
