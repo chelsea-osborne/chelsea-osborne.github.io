@@ -1,6 +1,8 @@
+/* Page Background */
 body {
     background-color: rgb(255, 200, 200);
 }
+/* Heading Style Properties */
 #home-page-heading {
     color: gray;
     font-family: 'Pacifico', cursive;
@@ -8,19 +10,22 @@ body {
     text-align: center;
     opacity: 70%;
 }
+/* Navigation Bar Properties */
 ul {
-    list-style-type: none;
+    list-style-type: none; /* Removes Underline */
     margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: #333;
     position: -webkit-sticky;
-    position: sticky;
+    position: sticky; /* Keeps it at the top of the page */
     top: 0;
 }
+/* List Elements keep left*/
 li {
     float: left;
 }
+/* Drop Button Styling */
 li a, .dropbtn {
     display: inline-block;
     color: white;
@@ -29,13 +34,17 @@ li a, .dropbtn {
     padding: 14px 16px;
     text-decoration: none;
 }
+/* When Hovering over a Link */
 li a:hover, .dropdown:hover .dropbtn {
     color: white;
     background-color: black;
 }
+/* The container needs to position the dropdwon menu */
 li.dropdown {
     display: inline-block;
+    position: relative;
 }
+/* Dropdown Content (Hidden by Default) */
 .dropdown-content {
     display: none;
     position: absolute;
@@ -44,6 +53,7 @@ li.dropdown {
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
 }
+/* Links inside the Dropdown */
 .dropdown-content a {
     color: black;
     font-family: Helvetica, sans-serif;
@@ -52,18 +62,21 @@ li.dropdown {
     display: block;
     text-align: left;
 }
+/* When Hovering over Dropdown Content */
 .dropdown-content a:hover {
     background-color: #f1f1f1;
 }
+
 .dropbtn:hover .dropdown-content {
     display: block;
 }
-
+/* When On the Active Page */
 li a.active {
     background-color: pink;
     color: white;
 }
 .dropdown .dropbtn {
+    position: absolute;
     font-size: 16px;
     border: none;
     outline: none;
@@ -73,6 +86,7 @@ li a.active {
     font-family: Helvetica, sans-serif;
     margin: 0;
 }
+
 
 
 h1 {
