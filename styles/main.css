@@ -71,19 +71,23 @@ a.active {
 
   .blog-h1 {
     color: #6d1360;
+    padding-left: 60px;
   }
 
   .blog-h2 {
     max-width: 75%;
     color: #6d1360;
+    padding: 40px 0px 20px 60px;
   }
 
   .blog-h3 {
     max-width: 75%;
     color: #6d1360;
+    padding-left: 60px;
   }
 
   .blog-para {
     max-width: 75%;
     color: #280523;
+    padding-left: 60px;
   }
