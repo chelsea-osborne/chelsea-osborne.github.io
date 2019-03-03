@@ -68,3 +68,22 @@ a.active {
     background-color: pink;
     color: white;
   }
+
+  .blog-h1 {
+    color: #6d1360;
+  }
+
+  .blog-h2 {
+    max-width: 75%;
+    color: #6d1360;
+  }
+
+  .blog-h3 {
+    max-width: 75%;
+    color: #6d1360;
+  }
+
+  .blog-para {
+    max-width: 75%;
+    color: #280523;
+  }
