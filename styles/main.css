@@ -84,7 +84,7 @@ a.active {
   .blog-h3 {
     max-width: 75%;
     color: #6d1360;
-    padding-left: 60px;
+    padding: 20px auto 5px 60px;
   }
 
   .blog-para {
